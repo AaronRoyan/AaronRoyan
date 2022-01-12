@@ -2,9 +2,9 @@
 
 ### Connect with me:
 
-[<img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/> />][website]
-[<img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/> />][linkedin]
-[<img src="https://img.icons8.com/color/50/000000/instagram.png"/>/>][instagram]
+[<img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/> ][website]
+[<img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/> ][linkedin]
+[<img src="https://img.icons8.com/color/50/000000/instagram.png"/>][instagram]
 
 <br/>
 
