@@ -2,9 +2,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="(☞ﾟヮﾟ)☞.com" width="22px" src="<img src="https://img.icons8.com/ios-filled/500/000000/codepen.png"/>" />][website]
-[<img align="left" alt="(☞ﾟヮﾟ)☞ | LinkedIn" width="22px" src="<img src="https://img.icons8.com/fluency/500/000000/linkedin.png"/>" />][linkedin]
-[<img align="left" alt="(☞ﾟヮﾟ)☞ | Instagram" width="22px" src="<img src="https://img.icons8.com/color/500/000000/instagram.png"/>" />][instagram]
+[<img align="left" alt="(☞ﾟヮﾟ)☞.com" width="22px" src="<img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/>" />][website]
+[<img align="left" alt="(☞ﾟヮﾟ)☞ | LinkedIn" width="22px" src="<img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>" />][linkedin]
+[<img align="left" alt="(☞ﾟヮﾟ)☞ | Instagram" width="22px" src="<img src="https://img.icons8.com/color/50/000000/instagram.png"/>" />][instagram]
 
 <br/>
 
